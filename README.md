@@ -1,9 +1,9 @@
 # app-dev
 **Title: Sweet Home**
-##Genre##
+**Genre**
 -Horror
 -Supernatural
 -Thriller
 
-##Link
+**Link**
 [Netflix](https://www.netflix.com/ph-en/title/81061734)
